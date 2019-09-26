@@ -1,0 +1,72 @@
+ var employees = [{ "Unique ID" : "1",
+				"First Name" : "Christian",
+				"Last Name" : "Simic",
+				"Email address" : "christian.simic@hotmail.com",
+				"Job Title" : "programmer",
+				"Salary" : "100000e"},
+
+
+				{ "Unique ID" : "2",
+				"First Name" : "Christian",
+				"Last Name" : "Simic",
+				"Email address" : "mira.simic@hotmail.com",
+				"Job Title" : "writer",
+				"Salary" : "1000e"},
+
+ 				{ "Unique ID" : "3",
+ 				"First Name" : "Arraba",
+ 				"Last Name" : "Ahmed",
+ 				"Email address" : "ahmed.sebastian@hotmail.com",
+ 				"Job Title" : "dancer",
+ 				"Salary" : "35000e"},
+
+ 			{ "Unique ID" : "4",
+ 				"First Name" : "Mama",
+ 				"Last Name" : "Ahmed",
+ 				"Email address" : "ahmed.sebastian@hotmail.com",
+ 				"Job Title" : "teacher",
+ 				"Salary" : "35000e"},
+
+ 			{ "Unique ID" : "5",
+ 				"First Name" : "Hubsi",
+ 				"Last Name" : "Ahmed",
+ 				"Email address" : "hubsi.sebastian@hotmail.com",
+ 				"Job Title" : "actor",
+ 				"Salary" : "36000e"},
+
+
+ 				{ "Unique ID" : "6",
+ 				"First Name" : "Happy",
+ 				"Last Name" : "Ahmed",
+ 				"Email address" : "happy.sebastian@hotmail.com",
+ 				"Job Title" : "artist",
+ 				"Salary" : "39000e"},
+
+ 				{ "Unique ID" : "7",
+ 				"First Name" : "Jennifer",
+ 				"Last Name" : "Ahmed",
+ 				"Email address" : "jennifer.sebastian@hotmail.com",
+ 				"Job Title" : "food tester",
+ 				"Salary" : "5000e"},
+
+ 				{ "Unique ID" : "8",
+ 				"First Name" : "Lala",
+ 				"Last Name" : "Ahmed",
+ 				"Email address" : "lala.sebastian@hotmail.com",
+ 				"Job Title" : "soccer player",
+ 				"Salary" : "45000e"},
+
+ 				{ "Unique ID" : "9",
+ 				"First Name" : "Greenchy",
+ 				"Last Name" : "Ahmed",
+ 				"Email address" : "greenchy.sebastian@hotmail.com",
+ 				"Job Title" : "swimmer",
+ 				"Salary" : "15000e"},
+
+ 			{ "Unique ID" : "10",
+ 				"First Name" : "Gingi",
+ 				"Last Name" : "Ahmed",
+ 				"Email address" : "gingi.sebastian@hotmail.com",
+ 				"Job Title" : "piano teacher",
+ 				"Salary" : "20000e"},]
+
