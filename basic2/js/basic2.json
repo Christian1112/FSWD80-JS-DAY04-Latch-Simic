@@ -1,0 +1,35 @@
+
+var clients = [
+    {
+        "clientid": "1",
+        "firstname": "Rolav",
+        "lastname": "decon",
+        "email": "rolav@gmail.com",
+        "title": "Accountant",
+        "salary": "5400E"
+    },
+    {
+        "clientid": "2",
+        "firstname": "Rolav",
+        "lastname": "decon",
+        "email": "rolav@gmail.com",
+        "title": "Accountant",
+        "salary": "5400E"
+    },
+    {
+        "clientid": "3",
+        "firstname": "Rolav",
+        "lastname": "decon",
+        "email": "rolav@gmail.com",
+        "title": "Accountant",
+        "salary": "5400E"
+    },
+    {
+        "clientid": "4",
+        "firstname": "Rolav",
+        "lastname": "decon",
+        "email": "rolav@gmail.com",
+        "title": "Accountant",
+        "salary": "5400E"
+    }
+]
