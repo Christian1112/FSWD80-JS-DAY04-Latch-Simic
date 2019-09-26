@@ -1,0 +1,8 @@
+const sandwiches = {
+    "sandwich": "hamburger",
+    "calories": "260"
+};
+const fries = {
+    "fries_size": "Large French Fries",
+    "calories": "570"
+};
